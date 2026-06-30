@@ -1,8 +1,12 @@
 # AI Model Performance Simulator
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://a-i-m-p-s.streamlit.app/)
+
 > A full-stack ML deployment tool that stress-tests classification models under controlled real-world data degradation — noise, drift, imbalance, missing values, label noise, outliers, and feature corruption.
 
-**Stack:** FastAPI · React · Vite · Tailwind CSS · scikit-learn · Plotly.js · Render
+**🔗 Live App:** [a-i-m-p-s.streamlit.app](https://a-i-m-p-s.streamlit.app/)
+
+**Stack:** FastAPI · React · Vite · Tailwind CSS · scikit-learn · Plotly.js · Streamlit
 
 ---
 
